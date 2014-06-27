@@ -63,7 +63,7 @@ let s:options = [
     \ ['show_visibility', 1],
     \ ['show_linenumbers', 0],
     \ ['singleclick', 0],
-    \ ['sort', 1],
+    \ ['sort', 0],
     \ ['systemenc', &encoding],
     \ ['width', 40],
     \ ['zoomwidth', 1],
